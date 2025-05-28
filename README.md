@@ -10,7 +10,7 @@
 
 ### 💼 Resume
 
-📄 [Download My Resume](https://github.com/NRayapati99/NRayapati99/raw/main/Naveen_Rayapati_Resume.pdf)
+📄 [Download My Resume](https://github.com/NRayapati99/NRayapati99/blob/main/Naveen's%20Resume.docx)
 
 ---
 
