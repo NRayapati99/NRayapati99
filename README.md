@@ -24,3 +24,14 @@
 - **Databases:** Snowflake, Oracle, PostgreSQL, MongoDB, HBase  
 - **DevOps & Tools:** Git, Jenkins, Kubernetes, Airflow, Informatica  
 - **Dashboards:** Power BI, Tableau
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)](https://linkedin.com/in/your-linkedin)  
+📧 Email: naveen.82393@gmail.com
+
+---
+
+🔍 _Always open to new challenges, contract roles, and data-driven opportunities!_
